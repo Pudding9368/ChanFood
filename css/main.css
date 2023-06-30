@@ -1,0 +1,72 @@
+
+
+body{
+    background-image:url("../img/homepageBackGround.jpg");
+    background-size: 100%;
+    background-repeat: no-repeat;
+
+   
+
+}
+
+#title1{
+    position:absolute;
+    left:885px;
+    
+
+    font-size: 150px;
+    font-family:Arial, Helvetica, sans-serif;
+
+    text-shadow: 5px 5px 5px
+
+
+}
+
+#title2{
+    position:absolute;
+    left:885px;
+    top:475px;
+
+    font-size: 35px;
+    font-family: Papyrus;
+}
+
+#link1{
+    position:absolute;
+    left:860px;
+    top:600px;
+
+    font-size: 45px;
+    font-family: Papyrus;
+}
+
+#link2{
+    position:absolute;
+    left:1025px;
+    top:600px;
+
+    font-size: 45px;
+    font-family: Papyrus;
+}
+
+#link3{
+    position:absolute;
+    left:1165px;
+    top:600px;
+
+    font-size: 45px;
+    font-family: Papyrus;
+
+   
+}
+
+button{
+    border-bottom: 4px solid blue;
+    border: none;
+    background: transparent;
+    outline: none;
+}
+
+button:active {
+    border-bottom: 4px solid blue;
+}

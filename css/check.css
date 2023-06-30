@@ -1,0 +1,30 @@
+body{
+    background-image: url(../img/notebook.jpg);
+    background-size: 100%;
+}
+
+.list{
+    font-size: 30px;
+    font-family: Papyrus;
+
+    position: relative;
+    left: 300px;
+    top:70px;
+}
+
+.button{
+    font-size :50px;
+    font-family: Papyrus;
+    border: none;
+    border-bottom: 4px solid black;
+    background: transparent;
+    outline: none;
+
+    position: relative;
+    bottom : 150px;
+    left: 900px;
+}
+
+.button:active{
+    border-bottom: 4px solid blue;
+}

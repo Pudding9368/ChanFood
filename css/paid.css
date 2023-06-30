@@ -1,0 +1,14 @@
+body{
+    background-image: url(../img/membershipBackground.jpg);
+    background-size: 100%;
+}
+
+.descr{
+    font-size: 70px;
+    position: relative;
+    left:100px;
+    bottom:40px;
+
+    font-family: Papyrus;
+    
+}
